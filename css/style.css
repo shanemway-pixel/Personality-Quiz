@@ -3,4 +3,7 @@
     color: white;
     border-color: #007bff;
 }
-  
+  .selected {
+    background-color: #0d6efd !important;
+    color: white !important;
+}
